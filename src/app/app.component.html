@@ -1,0 +1,46 @@
+<header>
+  <h1>ShopWears</h1>
+  <nav>
+    <ul>
+      <!-- testing for static strings -->
+      <li><a href="#" i18n>Home</a></li>
+      <li><a href="#" i18n>Shop</a></li>
+      <li><a href="#" i18n>About</a></li>
+      <li><a href="#" i18n>Contact</a></li>
+      <li><a href="#" i18n>Get a Shopping Site</a></li>
+    </ul>
+  </nav>
+
+
+  <!-- testing for placeholder attribute -->
+  <div class="input-box">
+    <input type="search" name="search" placeholder="search for clothes" i18n-placeholder>
+  </div>
+</header>
+
+
+
+<main>
+
+  <!-- testing for dynamic strings -->
+  <small>{{ siteText }}</small>
+
+  
+  <section class="products">
+    <div class="product" *ngFor="let data of products">
+      <img [src]="data.img" alt="Product 1">
+      <!-- testing for dynamic strings -->
+      <h2>{{ data.name }}</h2>
+      <p>{{ data.description }}</p>
+      <button i18n>Add to Cart</button>
+    </div>
+  </section>
+  
+</main>
+
+
+
+<footer>
+  <!-- testing for static strings -->
+  <p i18n>&copy; 2024 Shopella. All rights reserved.</p>
+</footer>

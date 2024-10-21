@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2821179408673282599" datatype="html">
+        <source>Home</source>
+        <target>Maison</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1147358182484006761" datatype="html">
+        <source>Shop</source>
+        <target>Boutique</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1726363342938046830" datatype="html">
+        <source>About</source>
+        <target>À propos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>Contact</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66328494048126357" datatype="html">
+        <source>Get a Shopping Site</source>
+        <target>Obtenez un site d'achat</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3277857581788480307" datatype="html">
+        <source>search for clothes</source>
+        <target>chercher des vêtements</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1358803443456357055" datatype="html">
+        <source>Add to Cart</source>
+        <target>Ajouter au panier</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6984572553545449942" datatype="html">
+        <source>© 2024 Shopella. All rights reserved.</source>
+        <target>© 2024 Shopella. Tous droits réservés.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5013616240352924770" datatype="html">
+        <source>Shoes &amp; Jeans</source>
+        <target>Chaussures &amp; jeans</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4712531775924932590" datatype="html">
+        <source>Some good shoes and jeans for your summer vacations.</source>
+        <target>De bonnes chaussures et un jean pour vos vacances d'été.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2691142598319683360" datatype="html">
+        <source>3-quater Jeans</source>
+        <target>Jean 3-quarts</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6843814622024888592" datatype="html">
+        <source>Beach torn jeans for artistic lifestyle cool vibes with earth aura.</source>
+        <target>Jean déchiré de plage pour un style de vie artistique, une ambiance cool avec une aura terrestre.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2157331198523819797" datatype="html">
+        <source>Winter Wears</source>
+        <target>Vêtements d'hiver</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2982722631112444815" datatype="html">
+        <source>Woollen wears for early winter days in Scotland.</source>
+        <target>La laine se porte pour les premiers jours d'hiver en Écosse.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="634498818312057202" datatype="html">
+        <source>Nice Wears</source>
+        <target>Belles tenues</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4879287194337281337" datatype="html">
+        <source>Nice wears for outdoor events with cool friends like Salim.</source>
+        <target>Des vêtements sympas pour des événements en plein air avec des amis sympas comme Salim.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8694527276474698695" datatype="html">
+        <source>Discover the latest trends in fashion at our online store. From stylish dresses to comfortable loungewear, we offer a wide range of clothing options for every occasion.</source>
+        <target>Découvrez les dernières tendances de la mode sur notre boutique en ligne. Des robes élégantes aux vêtements de détente confortables, nous proposons une large gamme d'options vestimentaires pour chaque occasion.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
